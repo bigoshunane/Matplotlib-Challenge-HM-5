@@ -72,8 +72,8 @@ Correlation and Regression plot
     •The observation of correlation between body weight and average tumor volume among mice treated with Capomulin showed that tumor volume is directly related 
     to the weight of a tumor-bearing mouse.
 
-    •The regression analysis helped to understand how much the average tumor volume (dependent variable) will change when weight of mice change(independent 
-    variables). The R-squared value is 0.70, which means 70% the model fit the data, wich is sound to predict the data from the model.
+    •From regression analysis we can observe how much the average tumor volume will change as weight of mice changes.
+    The R-squared value is 0.70, which means the model fits the data by 70%, wich is sound to predict the data from the model.
 
     •Capomulin treated mice demonstrated strong improvement in the tumor volume  among others and out of all analyzed regimens Capomulin provided second best 
     results after Ramicane regimen. More study needs to be done to have a farther analysis.
