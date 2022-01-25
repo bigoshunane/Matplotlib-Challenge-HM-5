@@ -2,6 +2,8 @@
 
 The aim of this project is to apply python libraries matplotlib and pandas to generate tables and figures required for technical report of the study of squamous cell carcinoma (SCC) a commonly occurring form of skin cancer which is conducted in pharmaceutical company based out of San Diego. The company identified 249 mice with SCC tumor growth which were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of the study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
+Datasets taken from the pharmaceutical company with folder named Pymaceuticals and developed matplotlin computation on jupyer notebook with file name pymaceuticals_starter.jpynb are found in repository.
+
 # Final report includes the following:
 
   . Summary Statistics
@@ -57,29 +59,21 @@ Correlation and Regression plot
     •Among tested drug regimens including placebo, Ramicane seems to be the most effective in reducing tumor growth, showing lower the median value.
     
     •Mice treated with Capomulin demonstrated the highest survival rate compared to the mice treated with the other eight treatment regimens used in the study
-     
      (Fig. 1). Capomulin has the second lowest tumor volume median after Ramicane (Table 2). Survival rate of Ramicane regimen comes after Capomulin, however,
-     
      its efficacy in the tumor volume reduction over the period of study is the highest out of all analyzed treatments.
 
     •Mice gender did not demonstrate any effect on efficacy of the studded treatments. Mice population used in the study had 51 % of male mice versus 49 % of 
-    
     female mice (Fig. 3) and decrease or increase in the tumor volume was demonstrated in both genders equally and depended only on the type of a regimen being 
-    
     used as a treatment.
 
     •The final tumor volume measurements of mice treated with Capomulin and Ramicane showed that two mice out of twenty-five treated with Capomulin developed an
-    
     increase in the tumor growth volume (Table.4), while all twenty-five mice treated with Ramicane had reduction in the tumor volume.
 
     •The observation of correlation between body weight and average tumor volume among mice treated with Capomulin showed that tumor volume is directly related 
-    
     to the weight of a tumor-bearing mouse.
 
     •The regression analysis helped to understand how much the average tumor volume (dependent variable) will change when weight of mice change(independent 
-    
     variables). The R-squared value is 0.70, which means 70% the model fit the data, wich is sound to predict the data from the model.
 
     •Capomulin treated mice demonstrated strong improvement in the tumor volume  among others and out of all analyzed regimens Capomulin provided second best 
-    
     results after Ramicane regimen. More study needs to be done to have a farther analysis.
