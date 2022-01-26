@@ -59,7 +59,7 @@ Correlation and Regression plot
     •Among tested drug regimens including placebo, Ramicane seems to be the most effective in reducing tumor growth, showing lower the median value.
     
     •Mice treated with Capomulin demonstrated the highest survival rate compared to the mice treated with the other eight treatment regimens used in the study
-     (Fig. 1). Capomulin has the second lowest tumor volume median after Ramicane (Table 2). Survival rate of Ramicane regimen comes after Capomulin, however,
+     (Fig.1). Capomulin has the second lowest tumor volume median after Ramicane (Table 2). Survival rate of Ramicane regimen comes after Capomulin, however,
      its efficacy in the tumor volume reduction over the period of study is the highest out of all analyzed treatments.
 
     •Mice gender did not demonstrate any effect on efficacy of the studded treatments. Mice population used in the study had 51 % of male mice versus 49 % of 
