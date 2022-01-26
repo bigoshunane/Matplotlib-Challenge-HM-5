@@ -56,24 +56,23 @@ Correlation and Regression plot
 
 # Observations and Insights
 
-    •Among tested drug regimens including placebo, Ramicane seems to be the most effective in reducing tumor growth, showing lower the median value.
+•Among tested drug regimens including placebo, Ramicane seems to be the most effective in reducing tumor growth, showing lower the median value.
     
-    •Mice treated with Capomulin demonstrated the highest survival rate compared to the mice treated with the other eight treatment regimens used in the study
-     (Fig.1). Capomulin has the second lowest tumor volume median after Ramicane (Table 2). Survival rate of Ramicane regimen comes after Capomulin, however,
-     its efficacy in the tumor volume reduction over the period of study is the highest out of all analyzed treatments.
+•Mice treated with Capomulin demonstrated the highest survival rate compared to the mice treated with the other eight treatment regimens used in the study (Fig.1). Capomulin has the second lowest tumor volume median after Ramicane (Table 2). Survival rate of Ramicane regimen comes after Capomulin, however,
+ its efficacy in the tumor volume reduction over the period of study is the highest out of all analyzed treatments.
 
-    •Mice gender did not demonstrate any effect on efficacy of the studded treatments. Mice population used in the study had 51 % of male mice versus 49 % of 
-    female mice (Fig. 3) and decrease or increase in the tumor volume was demonstrated in both genders equally and depended only on the type of a regimen being 
-    used as a treatment.
+•Mice gender did not demonstrate any effect on efficacy of the studded treatments. Mice population used in the study had 51 % of male mice versus 49 % of 
+ female mice (Fig. 3) and decrease or increase in the tumor volume was demonstrated in both genders equally and depended only on the type of a regimen being 
+ used as a treatment.
 
-    •The final tumor volume measurements of mice treated with Capomulin and Ramicane showed that two mice out of twenty-five treated with Capomulin developed an
-    increase in the tumor growth volume (Table.4), while all twenty-five mice treated with Ramicane had reduction in the tumor volume.
+•The final tumor volume measurements of mice treated with Capomulin and Ramicane showed that two mice out of twenty-five treated with Capomulin developed an
+ increase in the tumor growth volume (Table.4), while all twenty-five mice treated with Ramicane had reduction in the tumor volume.
 
-    •The observation of correlation between body weight and average tumor volume among mice treated with Capomulin showed that tumor volume is directly related 
-    to the weight of a tumor-bearing mouse.
+•The observation of correlation between body weight and average tumor volume among mice treated with Capomulin showed that tumor volume is directly related 
+ to the weight of a tumor-bearing mouse.
 
-    •From regression analysis we can observe how much the average tumor volume will change as weight of mice changes.
-    The R-squared value is 0.70, which means the model fits the data by 70%, wich is sound to predict the data from the model.
+•From regression analysis we can observe how much the average tumor volume will change as weight of mice changes.
+ The R-squared value is 0.70, which means the model fits the data by 70%, wich is sound to predict the data from the model.
 
-    •Capomulin treated mice demonstrated strong improvement in the tumor volume  among others and out of all analyzed regimens Capomulin provided second best 
-    results after Ramicane regimen. More study needs to be done to have a farther analysis.
+•Capomulin treated mice demonstrated strong improvement in the tumor volume  among others and out of all analyzed regimens Capomulin provided second best 
+results after Ramicane regimen. More study needs to be done to have a farther analysis.
