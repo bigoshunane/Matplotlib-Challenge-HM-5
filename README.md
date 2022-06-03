@@ -6,15 +6,14 @@ The aim of this project is to apply python libraries matplotlib and pandas to ge
 
 Datasets taken from the pharmaceutical company with folder named Pymaceuticals and developed matplotlin computation on jupyer notebook with file name pymaceuticals_starter.jpynb are found in repository.
 
-# Final report includes the following:
+-  Final report includes the following:
 
-  -  Summary Statistics
-  -  Bar and Pie Charts
-  -  Quartiles, Outliers and Boxplots
-  -  Line and Scatter Plots
-  -  Correlation and Regression
-  -  Observations and Insights
-  
+    -  Summary Statistics
+    -  Bar and Pie Charts
+    -  Quartiles, Outliers and Boxplots
+    -  Line and Scatter Plots
+    -  Correlation and Regression
+    -  Observations and Insights
   
 -  Summary Statistics  
  
